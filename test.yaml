@@ -1,0 +1,10 @@
+image:
+  version:
+    oauth: "1.1.0"
+    portal: "1.1.0"
+    mn: "1.1.0"
+    search: "1.1.0"
+helm:
+  revision:
+    preparation: "10"
+    services: "10"
